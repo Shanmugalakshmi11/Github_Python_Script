@@ -1,0 +1,16 @@
+{
+    "movie_id": 1,
+    "title": "Inception",
+    "release_year": 2010,
+    "genre": "Sci-Fi",
+    "actors": ["Leonardo DiCaprio", "Ellen Page", "Tom Hardy"],
+    "director":{
+        "name": "Christopher Nolan",
+        "birth_year":1970
+    },
+    "ratings":{
+        "critics": 9.5,
+        "audience": 8.8
+    }
+
+}

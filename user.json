@@ -1,0 +1,13 @@
+{
+    "Adresse":{
+        "straße": "Fichtenweg",
+        "Hausnummer": 4,
+        "PLZ":50767,
+        "Ort": "Köln"
+    },
+    "Name": "Shanmugalakshmi",
+    "Nachname": "Chandrasekaran",
+    "Alter": 38,
+    "Hobbies": ["Badmiton Spielen", "Musik Hören", "Reisen", "Tanzen"]
+}
+

@@ -6,8 +6,7 @@ studenten = [
 
 def durchschnitt_berechnen(noten):
     # Code hier schreiben
-   return 0 
-   return sum(noten) / len(noten) 
+    return sum(noten) / len(noten) 
 
 # Test
 for student in studenten:
